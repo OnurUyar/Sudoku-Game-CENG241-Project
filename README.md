@@ -5,4 +5,4 @@ In the project, together with my other 2 friends who took the same course, we us
   
 This project is an example of a puzzle game that is created by using console. This application contains nearly all features of the C++ language(normal functions, overloaded operators, constructors, class structures, etc.) that we learn in CENG241 course.    
   
-It can be developed according to needs and can be setting an example for the users in the field.
+It can be developed according to needs and can be setting an example for the users in the field.  
