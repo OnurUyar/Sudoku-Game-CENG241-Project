@@ -1,4 +1,4 @@
-# CENG241-Project
+# Sudoku Game (CENG241-Project)
 The project we did with my teammates at the end of the semester for CENG 241 (Object Oriented Programming) course.    
   
 In the project, together with my other 2 friends who took the same course, we used all the information, features and methods we learned in the object-oriented programming course throughout the semester.  
